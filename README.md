@@ -11,8 +11,8 @@ Currently I'm studying in MTUCI, Faculty of Network Engineering.
 
 ## My skills
 
-- Java 
 - Go 
+- Java 
 - Python
 - Kafka
 - Postgres
