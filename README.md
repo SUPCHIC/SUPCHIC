@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**SUPCHIC/SUPCHIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+telegram: kirush_l
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+Hello, my name is Kirill, I'm a passionate developer from Russia.
+
+Currently I'm studying in MTUCI, Faculty of Network Engineering.
+
+## My skills
+
+- Java 
+- Go 
+- Python
+- Kafka
+- Postgres
+- Redis
+
+## Education
+
+* MTUCI Network Engineering 2023-2027.
+
+* Samsung School Java 2021-2023
+
+* Yandex Lyceum Python 2019 - 2021
