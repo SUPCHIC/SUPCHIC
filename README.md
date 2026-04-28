@@ -11,12 +11,13 @@ Currently I'm studying in MTUCI, Faculty of Network Engineering.
 
 ## My skills
 
-- Go 
-- Java 
-- Python
+- Go
+- gRPC/REST API
 - Kafka
 - Postgres
 - Redis
+- TCP/IP
+- Wireshark
 
 ## Education
 
